@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @J-a-a-n
+- 🌱 I’m currently learning Java, JS, HTML/CSS, Python
+- 📫 How to reach me on my E-Mail jan.git@outlook.com
